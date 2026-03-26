@@ -1,4 +1,4 @@
-<h1 align="left">👨‍💻 Kauã Vieira</h1>
+<h1 align="left">👨‍💻 Kauã Henrique Vieira</h1>
 <h3 align="left">Backend Developer in progress 🚀</h3>
 
 <p align="left">
